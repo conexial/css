@@ -1,0 +1,109 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: lightgray;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background-color: black;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+nav a:hover {
+  text-decoration: underline;
+  color: #be2424;
+
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #ccc;
+  background-color: beige;
+  max-width: 900px;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+
+h2 {
+  color: darkblue;
+  margin-bottom: 10px;
+}
+
+#studio-name {
+  color: darkred;
+  font-weight: bold;
+}
+
+img {
+  padding: 5px;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  border: 1px solid gray;
+  transition: 0.3s;
+  border-radius: 10px;
+}
+img:hover {
+  transform: scale(1.1);
+  border-color: blue;
+}
+
+details {
+  margin-top: 10px;
+}
+
+summary {
+  cursor: pointer;
+  color: blue;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+summary:hover {
+  color: darkblue;
+}
+
+form {
+  margin-top: 10px;
+}
+
+input,
+textarea {
+  width: 250px;
+  padding: 8px;
+  border-radius: 8px;
+}
+form button {
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+footer {
+  background-color: rgb(12, 7, 7);
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
+footer p {
+  color: gold;
+  margin: 0;
+}
