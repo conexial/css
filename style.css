@@ -29,6 +29,16 @@ nav a:hover {
 
 }
 
+#home {
+  background-image: url('/images/sunset.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 20px;
+  text-align: center;
+}
+
 section {
   padding: 20px;
   margin: 20px;
