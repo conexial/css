@@ -4,7 +4,7 @@
 Joel kamau
 
 ## Description
-This is a one page photography website created as a student project.  
+This is a one-page photography website created as a student project.  
 The website showcases favorite photos, a photo gallery, and a short biography.  
 It is designed to demonstrate basic HTML and CSS skills while creating a visually appealing photography site.
 
